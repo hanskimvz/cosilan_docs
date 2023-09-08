@@ -1,4 +1,4 @@
-[Version 0.94]
+## Cosilan Config [Version 0.94]
 Cosilan-设置(config.php)
 访问 地址： http://{ServerIP}/config.php  
 ![](images/I16623520390.jpeg) ![](images/I16623520391.jpeg)

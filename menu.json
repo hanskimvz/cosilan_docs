@@ -1,0 +1,404 @@
+{
+    "cosilan": {
+        "name": "cosilan",
+        "display": "Cosilan(平台软件)",
+        "active": 1,
+        "contents": [
+            {
+                "name": "cosilan092_install",
+                "display": "安装程序-windows64, V0.92",
+                "filename": "cosilan_092_install.md",
+                "active": 0
+            },
+            {
+                "name": "cosilan093_install",
+                "display": "安装程序-windows64, V0.93",
+                "filename": "cosilan093_installation.md",
+                "active": 0
+            },
+            {
+                "name": "cosilan095_full",
+                "display": "Cosilan 095 beta release",
+                "filename": "coslilan095beta.md",
+                "active": 0
+            },
+            {
+                "name": "cosialn095_install",
+                "display": "安装程序-windows64, V0.95",
+                "filename": "cosilan095beta_main.md",
+                "active": 0
+            },
+            {
+                "name": "cosilan096_install",
+                "display": "安装程序-windows64, V0.96",
+                "filename": "cosilan096_main.md",
+                "active": 0
+            },
+            {
+                "name": "cosilan096_full",
+                "display": "程序-windows64, V0.93",
+                "filename": "cosilan096.md",
+                "active": 0
+            },
+            {
+                "name": "cosilan097_full",
+                "display": "Cosilan 0.97 Beta",
+                "filename": "cosilan097.md",
+                "active": 1
+            },            
+            {
+                "name": "cosilan097_install",
+                "display": "安装程序-windows64, V0.97",
+                "filename": "cosilan097_installation.md",
+                "active": 1
+            },
+            {
+                "name": "mariadb10.4.24",
+                "display": "数据库mariadb 安装",
+                "filename": "install_mariadb_10.4.24.md",
+                "active": 1
+            },
+            {
+                "name": "cosilan_web_manual",
+                "display": "Cosilan 网页 指南",
+                "filename": "cosilan_web_manual.md",
+                "active": 1
+            },
+            {
+                "name": "pubsvc",
+                "display": "pubSVC Manual",
+                "filename": "cosilan_pubSVC_manual.md",
+                "active": 1
+            },
+            {
+                "name": "cosilan094_config",
+                "display": "Cosilan Config [Version 0.94]",
+                "filename": "cosilan094_config.md",
+                "active": 0
+            },
+            {
+                "name": "cosial_rt_screen",
+                "display": "实时 预览数据",
+                "filename": "cosilan_realtime_screen.md",
+                "active": 1
+            }
+
+
+        ]
+    },
+    "vca": {
+        "name": "vca",
+        "display": "VCA(智能分析)",
+        "active": 1,
+        "contents": [
+             {
+                "name": "vca_intro",
+                "display": "简介",
+                "filename": "VCA_introduction.md",
+                "active": 1
+            },
+            {
+                "name": "vca_start",
+                "display": "开始使用",
+                "filename": "VCA_starts.md",
+                "active": 1
+            },
+            {
+                "name": "vca_functions",
+                "display": "VCA 功能列表",
+                "filename": "VCA_function_table.md",
+                "active": 1
+            }, 
+            {
+                "name": "",
+                "display": "设置VCA",
+                "filename": "VCA_setting.md",
+                "active": 1
+            },                                            
+            {
+                "name": "",
+                "display": "摄像机三维校准(3d calibration) 校准界面说明",
+                "filename": "VCA_3d_calibration.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "启用或禁用VCA",
+                "filename": "VCA_able_disable.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "VCA 激活",
+                "filename": "VCA_activation.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "VCA 工作原理",
+                "filename": "VCA_algorithm.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "出现（Appear） 和 消失（Disappear）",
+                "filename": "VCA_appear_disappear.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "计数器 Counter",
+                "filename": "VCA_counter.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "过线计数（Counting Line）",
+                "filename": "VCA_counting_line.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "计数 数据库（报表）Counting Report",
+                "filename": "VCA_counting_report.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "进入（Enter）和离开 （Exit）",
+                "filename": "VCA_enter_exit.md",
+                "active": 1
+            },
+
+            {
+                "name": "",
+                "display": "目标分类",
+                "filename": "VCA_object_class.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "方向（Object Direction）",
+                "filename": "VCA_object_direction.md",
+                "active": 1
+            },
+            {
+                "name": "",
+                "display": "存在（Object Presence）",
+                "filename": "VCA_object_presence.md",
+                "active": 1
+            }
+
+
+
+
+        ]
+    },
+    "support": {
+        "name": "support",
+        "display": "技术支持",
+        "active": 1,
+        "contents": [
+            {
+                "name": "ts_blob_data_density",
+                "display": "客流密度-用blob data",
+                "filename": "ts_blob_data_density.md",
+                "active": 1
+            },
+            {
+                "name": "ts_counter_report_fail",
+                "display": "Counter Report Fail, 时间 重复",
+                "filename": "ts_counter_report_fail.md",
+                "active": 1
+            },
+            {
+                "name": "ts_counting_line_consideration",
+                "display": "过线计数 摄像机安装 注意事项",
+                "filename": "ts_counting_line_consideration.md",
+                "active": 1
+            },
+            {
+                "name": "ts_counting_line",
+                "display": "过线计数(Counting Line)",
+                "filename": "ts_counting_line.md",
+                "active": 1
+            },
+            {
+                "name": "ts_counting_platform_consideration",
+                "display": "开发 计数平台 考虑事项",
+                "filename": "ts_counting_platform_consideration.md",
+                "active": 1
+            },
+            {
+                "name": "ts_crpt_92900",
+                "display": "CRPT error on 92900",
+                "filename": "ts_crpt_92900.md",
+                "active": 1
+            },
+            {
+                "name": "ts_dual_counting_line",
+                "display": "计数线徘徊-双线计数",
+                "filename": "ts_dual_counting_line.md",
+                "active": 1
+            },
+            {
+                "name": "ts_event_data_rs485",
+                "display": "报警事件485输出",
+                "filename": "ts_event_data_rs485.md",
+                "active": 1
+            },
+            {
+                "name": "ts_hkivision_NVR_IPN",
+                "display": "在海康NVR中添加VCA摄像机和编码器",
+                "filename": "ts_hkivision_NVR_IPN.md",
+                "active": 1
+            },
+            {
+                "name": "ts_IPN_datetime_cgi",
+                "display": "IPN Datetime CGI",
+                "filename": "ts_IPN_datetime_cgi.md",
+                "active": 1
+            },
+            {
+                "name": "ts_ipn_snapshot",
+                "display": "抓拍功能",
+                "filename": "ts_ipn_snapshot.md",
+                "active": 1
+            },
+            {
+                "name": "ts_push_counting_via_rs485",
+                "display": "计数报警串口(RS485)推送",
+                "filename": "ts_push_counting_via_rs485.md",
+                "active": 1
+            },
+            {
+                "name": "ts_reset_counter",
+                "display": "计数器 清零(Reset Counter)",
+                "filename": "ts_reset_counter.md",
+                "active": 1
+            },
+            {
+                "name": "ts_simplify_eventdata",
+                "display": "计数信息简化(RS485信息)",
+                "filename": "ts_simplify_eventdata.md",
+                "active": 1
+            },
+            {
+                "name": "ts_tcp_push",
+                "display": "计数 事件 推送(TCP)",
+                "filename": "ts_tcp_push.md",
+                "active": 1
+            },
+            {
+                "name": "ts_tlss_device",
+                "display": "云平台摄像机终端配置指南(TLSS)",
+                "filename": "ts_tlss_device.md",
+                "active": 1
+            },
+            {
+                "name": "ts_WDR_compare",
+                "display": "未适用",
+                "filename": "ts_WDR_compare.md",
+                "active": 1
+            },
+            {
+                "name": "ts_windows_firewall",
+                "display": "Windows 防火墙 开放端口",
+                "filename": "ts_windows_firewall.md",
+                "active": 1
+            },
+            {
+                "name": "ts_windows_NTP_server",
+                "display": "windows NTP 服务器",
+                "filename": "ts_windows_NTP_server.md",
+                "active": 1
+            },
+            {
+                "name": "ts_browse_devices",
+                "display": "Browsing Devices",
+                "filename": "ts_browse_devices.md",
+                "active": 1
+            },
+            {
+                "name": "ts_face_detect",
+                "display": "设置 面部检测(Face Detection)",
+                "filename": "ts_face_detect.md",
+                "active": 1
+            },
+            {
+                "name": "ts_get_metadata_via_http",
+                "display": "取得 meta data 通过 http 端口",
+                "filename": "ts_get_metadata_via_http.md",
+                "active": 1
+            },
+            {
+                "name": "ts_http_push",
+                "display": "计数 事件 推送(HTTP)",
+                "filename": "ts_http_push.md",
+                "active": 1
+            },
+            {
+                "name": "ts_jttp_push",
+                "display": "计数 事件 推送(HTTP)",
+                "filename": "ts_jttp_push.md",
+                "active": 1
+            },
+            {
+                "name": "ts_modify_tcp_info",
+                "display": "修改 事件信息(TCP 推送)",
+                "filename": "ts_modify_tcp_info.md",
+                "active": 1
+            },
+            {
+                "name": "ts_rtmp_push",
+                "display": "RTMP PUSH (视频推送)",
+                "filename": "ts_rtmp_push.md",
+                "active": 1
+            },
+            {
+                "name": "ts_test_serial_over_ip_speed",
+                "display": "Testing Serial Over Ip speed",
+                "filename": "ts_test_serial_over_ip_speed.md",
+                "active": 1
+            },
+            {
+                "name": "ts_tlss_setting",
+                "display": "托管服务 (TLSS, Tunneled Link Setup Setting, Hosted Service, VSaaS)",
+                "filename": "ts_tlss_setting.md",
+                "active": 1
+            }
+        ]
+    },
+    "product": {
+        "name": "product",
+        "display": "产品",
+        "active": 1,
+        "contents": [
+            {
+                "name": "product_NS6x02HD",
+                "display": "NS6x02HD-室外网络摄像机",
+                "filename": "product_NS6x02HD.md",
+                "active": 1
+            },
+            {
+                "name": "manual_install_activeX",
+                "display": "IPN Webpage Manual - Install ActivX",
+                "filename": "manual_install_activeX.md",
+                "active": 1
+            },
+            {
+                "name": "manual_IPAdmintool",
+                "display": "IPAdminTool User’s Manual",
+                "filename": "manual_IPAdmintool.md",
+                "active": 1
+            },
+            {
+                "name": "manual_live",
+                "display": "IPN Webpage Manual - Live",
+                "filename": "manual_live.md",
+                "active": 1
+            }            
+
+        ]
+    }
+}

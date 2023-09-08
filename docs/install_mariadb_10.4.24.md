@@ -1,3 +1,5 @@
+## MariaDB 10.4.24
+
 1. 如已安装的数据库软件， 不用安装，要 root的密码
 2. 下载软件 http://124.61.244.239:8000/download.php?file=mariadb-10.4.24-winx64.msi
 3. windows 11 有时候 不能 安装 数据库 软件， 安装mariadb-10.8:  
